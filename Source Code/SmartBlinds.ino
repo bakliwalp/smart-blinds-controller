@@ -52,9 +52,9 @@ UpnpBroadcastResponder upnpBroadcastResponder;
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
-#define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "snicosia"            // Replace it with your username
-#define AIO_KEY         "ad30480c676f4963aad3aec25c87eb92"   // Replace with your Project Auth Key
+#define AIO_SERVERPORT  1883                  // use 8883 for SSL
+#define AIO_USERNAME    "--------"            // Replace it with your username
+#define AIO_KEY         "-----------------"   // Replace with your Project Auth Key
 
 /************ Global State (you don't need to change this!) ******************/
 
